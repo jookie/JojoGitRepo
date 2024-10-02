@@ -1,1 +1,7 @@
 streamlit
+andas
+plotly
+psycopg2
+requests
+tweepy
+numpy
